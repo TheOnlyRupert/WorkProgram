@@ -1,0 +1,11 @@
+ID,RANK,ACTIVE,OT_START,BADGE,NAME_FIR,NAME_MID,NAME_LAS,NAME_SUF,DATE_BIRTH,DATE_HIRE,PAY_TYPE,PAY_NOW,ADD_STR,ADD_CIT,ADD_STA,ADD_ZIP,PHONE,EMAIL
+0,0,1,168,1000,Darnell,John,Price,,19670421,20160112,0,51331.1,876 Paul Wayne Road,Metairie,LA,70001,5044526686,DarnellJPrice@fake.com
+1,1,1,168,1001,Mary,Tracy,Blevins,,19910224,20160315,0,47889.28,1931 Burke Street,Bedford,MA,1730,7813122148,MaryRBlevins@fake.com
+2,2,1,40,1002,Donald,Charles,Hansen,Jr,19930315,20160825,1,12.35,4934 Ocala Street,Oviedo,FL,32765,4073653564,DonaldCHansen@fake.com
+3,3,1,40,1003,Brian,Jack,Christensen,,19900401,20161010,1,12.25,2141 Garrett Street,Philadelphia,PA,19103,2679377228,BrianJChristensen@fake.com
+4,4,1,40,1004,Diana,Drake,Hall,,19950530,20180528,1,9.85,3831 Margaret Street,Houston,TX,77063,7138824157,DianaDHall@fake.com
+5,4,1,40,1005,Jacqueline,Mary,Williams,,19791223,20181131,1,9.75,3833 Horizon Circle,University Place,WA,98466,2535655656,JacquelineMWilliams@fake.com
+6,4,1,40,1006,James,Michael,Mayo,III,19850425,20181201,1,9.75,4709 Camden Street,Reno,NV,89501,7753134085,JamesMMarro@fake.com
+7,4,1,40,1007,Evelyn,Rebecca,Harvey,,19951212,20190311,1,9.75,4300 Stanton Hollow Road,Reading,MA,1867,7815099277,EvelynRHarvey@fake.com
+8,4,1,40,1008,Pamela,Frost,Elliott,,19950207,20190314,1,9.75,4658 Lakewood Drive,Newark,NJ,7102,2018086118,PamelaRElliott@fake.com
+9,5,1,40,1009,Edward,,Miller,,20001125,20190816,1,9.75,633 Redbud Drive,Garden City,NY,11530,3477444513,EdwardMiller@fake.com

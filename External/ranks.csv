@@ -1,0 +1,7 @@
+RANK_ID,NAME,PAY_TYPE,PAY_START,PERM_NODES
+0,Director,0,51331.1,master.all
+1,Assistant Director,0,47889.28,schedule.view.all;schedule.edit.past;schedule.timeoff.approve.self
+2,Lead Supervisor,1,12.75,schedule.view.all;schedule.timeoff.others
+3,Supervisor,1,12.25,schedule.view.all;schedule.timeoff.others
+4,Officer,1,9.75,schedule.view.past;schedule.timeoff
+5,Officer Trainee,1,9.75,

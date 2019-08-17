@@ -1,0 +1,14 @@
+# Ignored Folders:
+/.git
+/.idea
+/bin
+/obj
+/info
+
+# Ignored Files:
+.gitattributes
+*.csproj
+*.DotSettings
+*.sln
+*.sln.DotSettings
+BombGameSolver.sln.DotSettings
